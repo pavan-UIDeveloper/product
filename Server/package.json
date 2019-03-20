@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "product api",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello pavan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavan-UIDeveloper/product.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavan-UIDeveloper/product/issues"
+  },
+  "homepage": "https://github.com/pavan-UIDeveloper/product#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19",
+    "shortid": "^2.2.14"
+  }
+}
